@@ -37,7 +37,7 @@ semantic segmentaion
 * [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
 
 
-<h2 id="2">2.One-Shot segmentation supervision</h2>
+<h2 id="2">2.One-Shot segmentation supervision(TODO)</h2>
 
 DAVIS Challenge: <http://davischallenge.org/>
 
@@ -68,5 +68,5 @@ DAVIS Challenge: <http://davischallenge.org/>
 * [Learning to segment under various forms of weak supervision](https://www.cs.toronto.edu/~urtasun/publications/xu_etal_cvpr15.pdf), CVPR 2015
 
 
-** If some related works are missed, please kindly notice me by dxzhang@zju.edu.cn **
+**If some related works are missed, please kindly notice me by dxzhang@zju.edu.cn**
 
