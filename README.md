@@ -27,7 +27,7 @@ Instance semantic segmentation
 <img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
 
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
-* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017
+* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/) \] \[[code(tf)](https://github.com/philferriere/tfwss)\]
 
 <h2 id="1">1.Bounding box supervision</h2>
 
