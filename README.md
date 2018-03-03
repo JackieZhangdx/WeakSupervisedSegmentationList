@@ -16,7 +16,7 @@ This repository contains lists of state-or-art weak supervised semantic segmenta
 
 | No | Supervision | Difficulty | Domain | Core issues |
 | -- | ----------- | ---------- | ------ | ----------- |
-| 1 | Bounding box | middle | annotated classes | transfer learning |
+| 1 | [Bounding box](#1) | middle | annotated classes | transfer learning |
 | 2 | One-shot segment | middle | similar objects | one-shot learning |
 | 3 | Image/video label | hard | annotated classes | transfer learning |
 
@@ -29,8 +29,7 @@ Instance semantic segmentation
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017
 
-1.Bounding box supervision
-----
+<h2 id="1">1.Bounding box supervision</h2>
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
 * [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
