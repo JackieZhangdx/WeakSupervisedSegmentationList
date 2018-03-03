@@ -2,7 +2,16 @@
 This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types.
 (on progress)
 
+- [ ] Paper list
+	- [x] instance
+	- [ ] box
+	- [ ] one-shot
+	- [ ] others 
+- [ ] Resources
+- [ ] Survey
+
 ####Typical weak supervised segmentation problems####
+
 | Supervision | Difficulty | Domain | Core issues |
 | ---- | ---- | ---- | ---- |
 | Bounding box | middle | annotated classes | transfer learning |
@@ -23,7 +32,7 @@ Bounding box supervision
 
 One-Shot segmentation supervision
 ----
-DAVIS Challenge: [http://davischallenge.org/](http://davischallenge.org/)
+DAVIS Challenge: <http://davischallenge.org/>
 * [OSVOS: One-Shot Video Object Segmentation](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/), CVPR 2017
 
 Image label supervision
