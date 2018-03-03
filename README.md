@@ -10,7 +10,9 @@ This repository contains lists of state-or-art weak supervised semantic segmenta
 - [ ] Resources
 - [ ] Survey
 
+
 ####Typical weak supervised segmentation problems####
+
 
 | Supervision | Difficulty | Domain | Core issues |
 | ---- | ---- | ---- | ---- |
