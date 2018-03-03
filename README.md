@@ -25,6 +25,7 @@ Instance semantic segmentation
 ----
 
 ![instance](img/instance.PNG)
+<img src="img/instance.PNG" alt="git" title="instance segmentation" width="100" height="100" />
 
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017
