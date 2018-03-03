@@ -1,4 +1,4 @@
-# WeakSupervisedSegmentation
+#WeakSupervisedSegmentation
 This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types.
 (on progress)
 
@@ -64,4 +64,6 @@ DAVIS Challenge: <http://davischallenge.org/>
 * [ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1604.05144), CVPR 2016
 * [Learning to segment under various forms of weak supervision](https://www.cs.toronto.edu/~urtasun/publications/xu_etal_cvpr15.pdf), CVPR 2015
 
+
+If some related works are missed, please kindly notice me by dxzhang@zju.edu.cn
 
