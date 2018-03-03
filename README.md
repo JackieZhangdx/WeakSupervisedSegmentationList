@@ -27,7 +27,7 @@ Instance semantic segmentation
 <img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
 
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
-* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/) \] \[[code(tf)](https://github.com/philferriere/tfwss)\]
+* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[code](https://github.com/philferriere/tfwss)\]
 
 <h2 id="1">1.Bounding box supervision</h2>
 
@@ -41,11 +41,11 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <img src="img/davis.PNG" alt="git2" title="davis" width="700" height="350" />
 
-* [OSVOS: One-Shot Video Object Segmentation](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/), CVPR 2017
+* [OSVOS: One-Shot Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf), CVPR 2017 \[[web](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)\]\[[code](https://github.com/kmaninis/OSVOS-caffe)\]
 
 <h2 id="3">3.Image/video label supervision</h2>
 
-* [Weakly Supervised Semantic Segmentation using Web-Crawled Videos](https://arxiv.org/abs/1701.00352), CVPR 2017
+* [Weakly Supervised Semantic Segmentation using Web-Crawled Videos](https://arxiv.org/abs/1701.00352), CVPR 2017 \[[web](http://cvlab.postech.ac.kr/research/weaksup_video/)\]
 * [WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation](http://webia.lip6.fr/~durandt/pdfs/2017_CVPR/Durand_WILDCAT_CVPR_2017.pdf), CVPR 2017 \[[web](http://webia.lip6.fr/~durandt/projects/wildcat/)\]\[[code](https://github.com/durandtibo/wildcat.pytorch)\]
 * [Learning from Weak and Noisy Labels for Semantic Segmentation](http://ieeexplore.ieee.org/document/7450177/), PAMI 2017
 * [Learning to Segment Human by Watching YouTube](https://arxiv.org/abs/1710.01457), PAMI 2017
