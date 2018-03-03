@@ -1,5 +1,14 @@
 # WeakSupervisedSegmentation
 This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types.
+(on progress)
+
+####Typical weak supervised segmentation problems####
+| Supervision | Difficulty | Domain | Core issues |
+| ---- | ---- | ---- | ---- |
+| Bounding box | middle | annotated classes | transfer learning |
+| One-shot segment | middle | similar objects | one-shot learning |
+| Image label | hard | annotated classes | transfer learning |
+
 
 Instance semantic segmentation
 ----
