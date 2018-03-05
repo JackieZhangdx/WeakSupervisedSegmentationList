@@ -1,4 +1,5 @@
-#WeakSupervisedSegmentation
+# Weak Supervised Semantic Segmentation
+
 This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types.
 (on progress)
 
