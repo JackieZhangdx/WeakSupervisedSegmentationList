@@ -1,4 +1,4 @@
-# Weak Supervised Semantic Segmentation
+# Weak Supervised Semantic Segmentation list
 
 This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types.
 (on progress)
@@ -35,8 +35,12 @@ Instance semantic segmentation
 semantic segmentaion
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
+
+comments: based on CRF refine, EM do not works
+
 * [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
 
+comments: iterative updata para and region proposal label, hard to implement and tricky to select proposals.
 
 <h2 id="2">2.One-Shot segmentation supervision(TODO)</h2>
 
