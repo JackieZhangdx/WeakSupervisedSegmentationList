@@ -30,17 +30,22 @@ Instance semantic segmentation
 <img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
 
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
+
+	comments: learning weight transfer from well-annotated subset, transfer class-specific weights(output layers) from detection and classification branch, based on Mask-RCNN
+
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[code](https://github.com/philferriere/tfwss)\]
+
+	comments: Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask
 
 semantic segmentaion
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
 
-comments: based on CRF refine, EM do not works
+	comments: based on CRF refine, EM do not works
 
 * [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
 
-comments: iterative updata para and region proposal label, hard to implement and tricky to select proposals.
+	comments: iterative updata para and region proposal label, hard to implement and tricky to select proposals.
 
 <h2 id="2">2.One-Shot segmentation supervision(TODO)</h2>
 
