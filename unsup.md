@@ -18,7 +18,7 @@ Others
 
 Related datasets
 
-<img src="img/dataset.PNG" alt="git" title="segmentation dataset" width="350" height="250" /> 
+![dataset]('./img/dataset.PNG')
 
 * [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
