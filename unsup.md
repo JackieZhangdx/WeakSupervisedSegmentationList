@@ -18,9 +18,11 @@ Others
 
 Related datasets
 
+<img src="img/dataset.PNG" alt="git" title="segmentation dataset" width="350" height="250" /> 
+
 * [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
 
-* [the segmentation challenge of PASCAL 2012 Visual Object Classes\(SegVOC12\](http://host.robots.ox.ac.uk/pascal/VOC/)
+* [the segmentation challenge of PASCAL 2012 Visual Object Classes\(SegVOC12\)](http://host.robots.ox.ac.uk/pascal/VOC/)
 
 * [the Berkeley Semantic Boundaries Dataset\(SDB\)](http://home.bharathh.info/pubs/codes/SBD/download.html) 
 
