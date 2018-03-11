@@ -14,4 +14,14 @@ Others
 
 * [MCG: Multiscale Combinatorial Grouping](https://arxiv.org/abs/1503.00848), CVPR 2014, \[[web](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)\] \[[code](https://github.com/jponttuset/mcg)\]
 
-* [Convolutional Oriented Boundaries](https://arxiv.org/abs/1701.04658), ECCV 2016, \[[web](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)\]\[[code](https://github.com/kmaninis/COB)\] 
+* [Convolutional Oriented Boundaries](https://arxiv.org/abs/1701.04658), ECCV 2016, \[[web](http://www.vision.ee.ethz.ch/~cvlsegmentation/cob/)\]\[[code](https://github.com/kmaninis/COB)\]
+
+Related datasets
+
+* [BSDS500](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html)
+
+* [the segmentation challenge of PASCAL 2012 Visual Object Classes\(SegVOC12\](http://host.robots.ox.ac.uk/pascal/VOC/)
+
+* [the Berkeley Semantic Boundaries Dataset\(SDB\)](http://home.bharathh.info/pubs/codes/SBD/download.html) 
+
+* [Microsoft Common Objects in Context \(COCO\)](http://cocodataset.org/) 

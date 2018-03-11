@@ -11,7 +11,7 @@ This repository contains lists of state-or-art weak supervised semantic segmenta
 - [x] Resources
 - [ ] Survey
 
-some unsupervised segment proposal methods [here](unsup.md).
+some unsupervised segment proposal methods and datasets [here](unsup.md).
 
 #### Typical weak supervised segmentation problems 
 
