@@ -79,5 +79,13 @@ DAVIS Challenge: <http://davischallenge.org/>
 * [Learning to segment under various forms of weak supervision](https://www.cs.toronto.edu/~urtasun/publications/xu_etal_cvpr15.pdf), CVPR 2015
 
 
+<h2 id="5">5.Close Related or unpublished work</h2>
+
+* [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), Arxiv 1803
+
+* [Learning Semantic Segmentation with Diverse Supervision](https://arxiv.org/abs/1802.00509), WACV 2018
+
+* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802
+
 **If some related works are missed, please kindly notice me by dxzhang@zju.edu.cn**
 
