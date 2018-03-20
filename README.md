@@ -81,6 +81,8 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <h2 id="5">5.Close Related or unpublished work</h2>
 
+* [Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414), Arxiv 1803 
+
 * [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), Arxiv 1803
 
 * [Learning Semantic Segmentation with Diverse Supervision](https://arxiv.org/abs/1802.00509), WACV 2018
