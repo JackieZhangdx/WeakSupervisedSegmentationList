@@ -50,6 +50,14 @@ semantic segmentaion
 
 * [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
 
+Arxiv paper
+
+* [Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414), Arxiv 1803 
+
+* [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), Arxiv 1803
+
+* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802
+
 <h2 id="2">2.One-Shot segmentation supervision(TODO)</h2>
 
 DAVIS Challenge: <http://davischallenge.org/>
@@ -84,13 +92,12 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <h2 id="5">5.Close Related or unpublished work</h2>
 
-* [Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414), Arxiv 1803 
+* [Weakly Supervised Salient Object Detection Using Image Labels](https://arxiv.org/abs/1803.06503v1), Arxiv 1803
 
-* [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), Arxiv 1803
+* [Weakly Supervised Object Localization on grocery shelves using simple FCN and Synthetic Dataset](https://arxiv.org/abs/1803.06813v1), Arxiv 1803
 
 * [Learning Semantic Segmentation with Diverse Supervision](https://arxiv.org/abs/1802.00509), WACV 2018
 
-* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802
 
 **If some related works are missed, please kindly notice me by dxzhang@zju.edu.cn**
 
