@@ -40,6 +40,8 @@ Instance semantic segmentation
 
 semantic segmentaion
 
+* [Normalized Cut Loss for Weakly-supervised CNN Segmentation](https://fperazzi.github.io/files/publications/ncloss.pdf), CVPR 2018
+
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
 
 	comments: based on CRF refine, EM do not works
