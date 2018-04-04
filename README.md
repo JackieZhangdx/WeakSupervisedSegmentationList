@@ -57,7 +57,7 @@ Arxiv paper
 
 * [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), Arxiv 1803
 
-* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802
+* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
 
 <h2 id="2">2.One-Shot segmentation supervision(TODO)</h2>
 
@@ -102,7 +102,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 * [Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation](https://arxiv.org/abs/1803.11365), CVPR 2018
 
-* [Weakly Supervised Salient Object Detection Using Image Labels](https://arxiv.org/abs/1803.06503v1), Arxiv 1803
+* [Weakly Supervised Salient Object Detection Using Image Labels](https://arxiv.org/abs/1803.06503v1), AAAI 2018
 
 * [Weakly Supervised Object Localization on grocery shelves using simple FCN and Synthetic Dataset](https://arxiv.org/abs/1803.06813v1), Arxiv 1803
 
