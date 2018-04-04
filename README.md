@@ -34,21 +34,20 @@ Instance semantic segmentation
 
 	comments: learning weight transfer from well-annotated subset, transfer class-specific weights(output layers) from detection and classification branch, based on Mask-RCNN
 
-* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
+* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
 
 	comments: Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask
 
-semantic segmentaion
+semantic segmentaion, sensitive to env(quality) of training images
 
-* [Normalized Cut Loss for Weakly-supervised CNN Segmentation](https://fperazzi.github.io/files/publications/ncloss.pdf), CVPR 2018
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
 
-	comments: based on CRF refine, EM do not works
+	comments: based on CRF refine, EM seems not work
 
 * [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
 
-	comments: iterative updata para and region proposal label, hard to implement and tricky to select proposals.
+	comments: iterative updata para and region proposal label, proposal selected by network output mask
 
 * [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
 
@@ -85,11 +84,12 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 #### Points
 
-* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081), Arxiv1711
+* [Deep Extreme Cut: From Extreme Points to Object Segmentation](https://arxiv.org/abs/1711.09081), CVPR 2018 \[[web](http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr/)\]\[[code](http://www.vision.ee.ethz.ch/~cvlsegmentation/dextr/)\]
 * [What's the Point: Semantic Segmentation with Point Supervision](https://arxiv.org/abs/1506.02106), ECCV 2016 \[[web](http://vision.stanford.edu/whats_the_point/)\]\[[code](https://github.com/abearman/whats-the-point1)\] 
 
 #### Scribbles
 
+* [Normalized Cut Loss for Weakly-supervised CNN Segmentation](https://fperazzi.github.io/files/publications/ncloss.pdf), CVPR 2018
 * [ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1604.05144), CVPR 2016
 * [Learning to segment under various forms of weak supervision](https://www.cs.toronto.edu/~urtasun/publications/xu_etal_cvpr15.pdf), CVPR 2015
 
