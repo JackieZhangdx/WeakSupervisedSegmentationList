@@ -38,7 +38,7 @@ Instance semantic segmentation
 
 	comments: Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask
 
-semantic segmentaion, sensitive to env(quality) of training images
+semantic segmentaion, sensitive to env(quality) of training images. *Check [my implementation](https://github.com/JackieZhangdx/PseudoMask) for pseudo mask generation which is similar to Grabcut+ MCG. But it can't match the performance discribed in paper. Opencv version Grabcut perform even worse.*
 
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
@@ -96,6 +96,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 
 <h2 id="5">5.Close Related or unpublished work</h2>
+
 * [WebSeg: Learning Semantic Segmentation from Web Searches](https://arxiv.org/abs/1803.09859v1), Arxiv1803
 
 * [On Regularized Losses for Weakly-supervised CNN Segmentation](https://arxiv.org/abs/1803.09569v1), Arxiv1803
