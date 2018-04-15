@@ -81,6 +81,16 @@ DAVIS Challenge: <http://davischallenge.org/>
 * [Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016 \[[code](https://github.com/kolesman/SEC)\]
 * [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://www.robots.ox.ac.uk/~vgg/rg/papers/ccnn.pdf), ICCV 2015 \[[code](https://github.com/pathak22/ccnn)\]
 
+
+<h2 id="3.1">3.1 Deep activation</h2>
+
+| Propagate method | Papers |
+| ---------------- | ------ |
+| Global Max Pooling(GMP) | Is object localization for free? - Weakly-supervised learning with convolutional neural networks,[CVPR 2015](http://leon.bottou.org/publications/pdf/cvpr-2015.pdf) |
+| Global Average Pooling(GAP) | Learning Deep Features for Discriminative Localization [CVPR 2016](https://arxiv.org/abs/1512.04150)|
+| Log-sum-exponential Pooling(LSE)| ProNet: Learning to Propose Object-specific Boxes for Cascaded Neural Networks,[CVPR 2016](https://arxiv.org/abs/1511.03776)|
+| Global rank Max-Min Pooling(GRP)| WILDCAT, [CVPR 2017](http://webia.lip6.fr/~durandt/projects/wildcat/)|
+
 <h2 id="4">4.Other supervision</h2>
 
 #### Points
