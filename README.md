@@ -81,6 +81,9 @@ DAVIS Challenge: <http://davischallenge.org/>
 * [Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016 \[[code](https://github.com/kolesman/SEC)\]
 * [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://www.robots.ox.ac.uk/~vgg/rg/papers/ccnn.pdf), ICCV 2015 \[[code](https://github.com/pathak22/ccnn)\]
 
+Arxiv paper
+
+* [Learning to Exploit the Prior Network Knowledge for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/1804.04882), Arxiv1804
 
 <h2 id="3.1">3.1 Deep activation</h2>
 
