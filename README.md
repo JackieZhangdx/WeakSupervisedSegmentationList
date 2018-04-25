@@ -69,6 +69,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <h2 id="3">3.Image/video label supervision</h2>
 
+* [Adversarial Complementary Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1804.06962v1), CVPR 2018
 * [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/abs/1804.00880), CVPR 2018
 * [Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1803.10464), CVPR 2018
 * [Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning](https://arxiv.org/abs/1802.09129), CVPR 2018
@@ -85,6 +86,8 @@ Arxiv paper
 
 * [Learning to Exploit the Prior Network Knowledge for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/1804.04882), Arxiv1804
 
+* [Weakly Supervised Object Discovery by Generative Adversarial & Ranking Networks](https://arxiv.org/abs/1711.08174v2), Arxiv 1711
+ 
 <h2 id="3.1">3.1 Deep activation</h2>
 
 | Propagate method | Papers |
