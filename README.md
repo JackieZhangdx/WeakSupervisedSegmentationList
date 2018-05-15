@@ -69,6 +69,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <h2 id="3">3.Image/video label supervision</h2>
 
+* [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
 * [Adversarial Complementary Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1804.06962v1), CVPR 2018
 * [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/abs/1804.00880), CVPR 2018
 * [Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1803.10464), CVPR 2018
