@@ -32,22 +32,26 @@ Instance semantic segmentation
 
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
 
-	comments: learning weight transfer from well-annotated subset, transfer class-specific weights(output layers) from detection and classification branch, based on Mask-RCNN
+	:Learning weight transfer from well-annotated subset, transfer class-specific weights(output layers) from detection and classification branch, based on Mask-RCNN
+
+* [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), CVPR 2018
+
+	:State-of-art weakly supervised instance segmentation with bounding box annotation.
 
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
 
-	comments: Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask
+	:Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask
 
 semantic segmentaion, sensitive to env(quality) of training images. *Check [my implementation](https://github.com/JackieZhangdx/PseudoMask) for pseudo mask generation which is similar to Grabcut+ MCG. But it can't match the performance discribed in paper. Opencv version Grabcut perform even worse.*
 
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
 
-	comments: based on CRF refine, EM seems not work
+	:Based on CRF refine, EM seems not work
 
 * [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
 
-	comments: iterative updata para and region proposal label, proposal selected by network output mask
+	:Iterative updata para and region proposal label, proposal selected by network output mask
 
 * [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
 
@@ -55,9 +59,8 @@ Arxiv paper
 
 * [Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414), Arxiv 1803 
 
-* [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), Arxiv 1803
-
 * [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
+
 
 <h2 id="2">2.One-Shot segmentation supervision(TODO)</h2>
 
