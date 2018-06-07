@@ -36,13 +36,11 @@ Instance semantic segmentation
 
 * [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), CVPR 2018
 
-	:State-of-art weakly supervised instance segmentation with bounding box annotation.
+	:State-of-art weakly supervised instance segmentation with bounding box annotation. EM optimizes pseudo mask and segmentation parameter like Boxsup. Graphcut on superpixel is employed to refine pseudo mask. 
 
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
 
-	:Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask
-
-semantic segmentaion, sensitive to env(quality) of training images. *Check [my implementation](https://github.com/JackieZhangdx/PseudoMask) for pseudo mask generation which is similar to Grabcut+ MCG. But it can't match the performance discribed in paper. Opencv version Grabcut perform even worse.*
+	:Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask semantic segmentaion, sensitive to env(quality) of training images. Check [my implementation](https://github.com/JackieZhangdx/PseudoMask) for pseudo mask generation which is similar to Grabcut+ MCG. But it can't match the performance discribed in paper sup. Opencv version Grabcut perform even worse.
 
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
