@@ -1,7 +1,8 @@
-# Weak Supervised Semantic Segmentation list
+# Weakly Supervised Semantic Segmentation list
 
-This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types. There are some personal views and notes, just ignore if not interested.
-(keep updating)
+This repository contains lists of state-or-art weakly supervised semantic segmentation works. Papers and resources are listed below according to supervision types. 
+
+There are some personal views and notes, just ignore if not interested. (keep updating)
 
 - [x] Paper list
 	- [x] instance
