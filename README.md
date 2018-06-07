@@ -1,7 +1,7 @@
 # Weak Supervised Semantic Segmentation list
 
-This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types.
-(on progress)
+This repository contains lists of state-or-art weak supervised semantic segmentation works. Papers and resources are listed below according to supervision types. There are some personal views and notes, just ignore if not interested.
+(keep updating)
 
 - [x] Paper list
 	- [x] instance
@@ -9,7 +9,6 @@ This repository contains lists of state-or-art weak supervised semantic segmenta
 	- [ ] one-shot
 	- [x] others 
 - [x] Resources
-- [ ] Survey
 
 some unsupervised segment proposal methods and datasets [here](unsup.md).
 
@@ -71,18 +70,36 @@ DAVIS Challenge: <http://davischallenge.org/>
 <h2 id="3">3.Image/video label supervision</h2>
 
 * [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
+
 * [Adversarial Complementary Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1804.06962v1), CVPR 2018
+
 * [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/abs/1804.00880), CVPR 2018
+
+	:state-of-art practice for instance seg with only class label.
+
 * [Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1803.10464), CVPR 2018
+
 * [Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning](https://arxiv.org/abs/1802.09129), CVPR 2018
+
 * [Weakly Supervised Semantic Segmentation using Web-Crawled Videos](https://arxiv.org/abs/1701.00352), CVPR 2017 \[[web](http://cvlab.postech.ac.kr/research/weaksup_video/)\]
+
 * [Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://arxiv.org/abs/1703.08448), CVPR 2017
+
 * [WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation](http://webia.lip6.fr/~durandt/pdfs/2017_CVPR/Durand_WILDCAT_CVPR_2017.pdf), CVPR 2017 \[[web](http://webia.lip6.fr/~durandt/projects/wildcat/)\]\[[code](https://github.com/durandtibo/wildcat.pytorch)\]
-* [Learning random-walk label propagation for weakly-supervised semantic segmentation](https://arxiv.org/abs/1802.00470), CVPR 2017 
+
+* [Learning random-walk label propagation for weakly-supervised semantic segmentation](https://arxiv.org/abs/1802.00470), CVPR 2017
+ 
 * [Learning from Weak and Noisy Labels for Semantic Segmentation](http://ieeexplore.ieee.org/document/7450177/), PAMI 2017
+
 * [Learning to Segment Human by Watching YouTube](https://arxiv.org/abs/1710.01457), PAMI 2017
+
 * [Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016 \[[code](https://github.com/kolesman/SEC)\]
+
 * [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://www.robots.ox.ac.uk/~vgg/rg/papers/ccnn.pdf), ICCV 2015 \[[code](https://github.com/pathak22/ccnn)\]
+
+Resource 
+
+* [Yunchao Wei](https://weiyc.github.io) talk in Chinese about [WSL with image label](http://www.iqiyi.com/w_19ru51f0nh.html)
 
 Arxiv paper
 
