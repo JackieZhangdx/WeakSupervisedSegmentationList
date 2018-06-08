@@ -66,7 +66,11 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <img src="img/davis.PNG" alt="git2" title="davis" width="700" height="350" />
 
+* [Fast and Accurate Online Video Object Segmentation via Tracking Parts](https://arxiv.org/abs/1806.02323), CVPR 2018 \[[code](https://github.com/JingchunCheng/FAVOS)\]
+	:state-of-art, 82.4%/1.8s 77.9%/0.6s 
+
 * [OSVOS: One-Shot Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf), CVPR 2017 \[[web](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)\]\[[code](https://github.com/kmaninis/OSVOS-caffe)\]
+	:milestone, fine-tuning parent network with the first frame mask, 79.8%/10s
 
 <h2 id="3">3.Image/video label supervision</h2>
 
