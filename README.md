@@ -7,7 +7,7 @@ There are some personal views and notes, just ignore if not interested. (keep up
 - [x] Paper list
 	- [x] instance
 	- [x] box
-	- [ ] one-shot
+	- [x] one-shot
 	- [x] others 
 - [x] Resources
 
@@ -50,7 +50,7 @@ Instance semantic segmentation
 
 * [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
 
-	:Iterative updata para and region proposal label, proposal selected by network output mask
+	:Iteratively update parameters and region proposal labels, proposals are selected by network output masks
 
 * [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
 
@@ -60,9 +60,11 @@ Arxiv paper
 
 * [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
 
-<h2 id="2">2.One-Shot segmentation supervision(TODO)</h2>
+<h2 id="2">2.One-Shot segmentation supervision</h2>
 
-DAVIS Challenge: <http://davischallenge.org/>  Davis17/18(Semi-supervised Video segmentation task)
+DAVIS Challenge: <http://davischallenge.org/> 
+
+	: Davis17/18(Semi-supervised Video segmentation task), Davis16 is video salient object segmentation without the first frame annotations.
 
 <img src="img/davis.PNG" alt="git2" title="davis" width="700" height="350" />
 
@@ -72,7 +74,7 @@ DAVIS Challenge: <http://davischallenge.org/>  Davis17/18(Semi-supervised Video 
 
 * [OSVOS: One-Shot Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf), CVPR 2017 \[[web](http://www.vision.ee.ethz.ch/~cvlsegmentation/osvos/)\]\[[code](https://github.com/kmaninis/OSVOS-caffe)\]
 	
-    :milestone, fine-tuning parent network with the first frame mask, 79.8%/10s
+	:milestone, fine-tuning parent network with the first frame mask, 79.8%/10s
 
 <h2 id="3">3.Image/video label supervision</h2>
 
@@ -80,7 +82,7 @@ DAVIS Challenge: <http://davischallenge.org/>  Davis17/18(Semi-supervised Video 
 
 	:state-of-art practice for instance seg with only class label.
 
-<img src="img/prm.png" alt="prm" title="prm" width="640" height="260" />
+<img src="img/prm.png" alt="prm" title="prm" width="750" height="300" />
 
 * [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
 
