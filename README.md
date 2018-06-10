@@ -38,7 +38,7 @@ Instance semantic segmentation
 
 	:State-of-art weakly supervised instance segmentation with bounding box annotation. EM optimizes pseudo mask and segmentation parameter like Boxsup. Graphcut on superpixel is employed to refine pseudo mask. 
 
-<img src="img/psmask" alt="git2" title="psmask" width="750" height="300" />
+<img src="img/psmask.png" alt="git2" title="psmask" width="750" height="300" />
 
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
 
@@ -80,7 +80,7 @@ DAVIS Challenge: <http://davischallenge.org/>  Davis17/18(Semi-supervised Video 
 
 	:state-of-art practice for instance seg with only class label.
 
-<img src="img/prm.png" alt="git2" title="prm" width="850" height="350" />
+<img src="img/prm.png" alt="prm" title="prm" width="640" height="260" />
 
 * [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
 
