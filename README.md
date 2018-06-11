@@ -99,6 +99,8 @@ DAVIS Challenge: <http://davischallenge.org/>
 * [WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation](http://webia.lip6.fr/~durandt/pdfs/2017_CVPR/Durand_WILDCAT_CVPR_2017.pdf), CVPR 2017 \[[web](http://webia.lip6.fr/~durandt/projects/wildcat/)\]\[[code](https://github.com/durandtibo/wildcat.pytorch)\]
 
 * [Learning random-walk label propagation for weakly-supervised semantic segmentation](https://arxiv.org/abs/1802.00470), CVPR 2017
+
+* [Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14445/14288), AAAI 2017
  
 * [Learning from Weak and Noisy Labels for Semantic Segmentation](http://ieeexplore.ieee.org/document/7450177/), PAMI 2017
 
