@@ -84,6 +84,8 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <img src="img/prm.png" alt="prm" title="prm" width="750" height="300" />
 
+* [Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features](https://arxiv.org/abs/1806.04659v1), CVPR 2018
+
 * [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
 
 * [Adversarial Complementary Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1804.06962v1), CVPR 2018
