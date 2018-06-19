@@ -86,6 +86,8 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 * [Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features](https://arxiv.org/abs/1806.04659v1), CVPR 2018
 
+    :Superpixel-> RegionNet(RoI classfier)-> Saliency refine, iteratively update with PixelNet(FCN)
+
 * [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
 
 * [Adversarial Complementary Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1804.06962v1), CVPR 2018
@@ -101,6 +103,8 @@ DAVIS Challenge: <http://davischallenge.org/>
 * [WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation](http://webia.lip6.fr/~durandt/pdfs/2017_CVPR/Durand_WILDCAT_CVPR_2017.pdf), CVPR 2017 \[[web](http://webia.lip6.fr/~durandt/projects/wildcat/)\]\[[code](https://github.com/durandtibo/wildcat.pytorch)\]
 
 * [Learning random-walk label propagation for weakly-supervised semantic segmentation](https://arxiv.org/abs/1802.00470), CVPR 2017
+
+* [Combining Bottom-Up, Top-Down, and Smoothness Cues for Weakly Supervised Image Segmentation](https://ieeexplore.ieee.org/document/8100253/), CVPR 2017
 
 * [Weakly Supervised Semantic Segmentation Using Superpixel Pooling Network](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14445/14288), AAAI 2017
  
