@@ -90,6 +90,8 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 * [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
 
+* [Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing], CVPR 2018 \[[web](https://speedinghzl.github.io/publication/dsrg/)\]\[[code](https://github.com/speedinghzl/DSRG)\]
+
 * [Adversarial Complementary Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1804.06962v1), CVPR 2018
 
 * [Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1803.10464), CVPR 2018
@@ -138,6 +140,12 @@ Arxiv paper
 <h2 id="3.1">3.2 Weakly supervised Detection / Localization(TODO) </h2>
 
 * [Zigzag Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1804.09466v1), CVPR 2018
+
+* [W2F: A Weakly-Supervised to Fully-Supervised Framework for Object Detection](https://ivul.kaust.edu.sa/Documents/Publications/2018/W2F%20A%20Weakly-Supervised%20to%20Fully-Supervised%20Framework.pdf), CVPR 2018
+
+* [Generative Adversarial Learning Towards Fast Weakly Supervised Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Generative_Adversarial_Learning_CVPR_2018_paper.pdf), CVPR 2018
+
+* [Min-Entropy Latent Model for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Min-Entropy_Latent_Model_CVPR_2018_paper.pdf), CVPR 2018
 
 <h2 id="4">4.Other supervision</h2>
 
