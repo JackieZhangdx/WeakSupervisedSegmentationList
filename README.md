@@ -90,7 +90,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 * [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
 
-* [Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing], CVPR 2018 \[[web](https://speedinghzl.github.io/publication/dsrg/)\]\[[code](https://github.com/speedinghzl/DSRG)\]
+* [Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf), CVPR 2018 \[[web](https://speedinghzl.github.io/publication/dsrg/)\]\[[code](https://github.com/speedinghzl/DSRG)\]
 
 * [Adversarial Complementary Learning for Weakly Supervised Object Localization](https://arxiv.org/abs/1804.06962v1), CVPR 2018
 
