@@ -68,7 +68,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <img src="img/davis.PNG" alt="git2" title="davis" width="700" height="350" />
 
-* [Fast and Accurate Online Video Object Segmentation via Tracking Parts](https://arxiv.org/abs/1806.02323), CVPR 2018 \[[code](https://github.com/JingchunCheng/FAVOS)\]
+* [Fast and Accurate Online Video Object Segmentation via Tracking Parts](https://arxiv.org/abs/1806.02323), CVPR 2018(Spotlight) \[[code](https://github.com/JingchunCheng/FAVOS)\]
 
 	:state-of-art, 82.4%/1.8s 77.9%/0.6s 
 
@@ -78,7 +78,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <h2 id="3">3.Image/video label supervision</h2>
 
-* [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/abs/1804.00880), CVPR 2018
+* [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/abs/1804.00880), CVPR 2018(Spotlight)
 
 	:state-of-art practice for instance seg with only class label.
 
@@ -88,7 +88,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
     :Superpixel-> RegionNet(RoI classfier)-> Saliency refine, iteratively update with PixelNet(FCN)
 
-* [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018
+* [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](https://arxiv.org/abs/1805.04574), CVPR 2018(Spotlight)
 
 * [Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf), CVPR 2018 \[[web](https://speedinghzl.github.io/publication/dsrg/)\]\[[code](https://github.com/speedinghzl/DSRG)\]
 
@@ -98,13 +98,13 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 * [Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning](https://arxiv.org/abs/1802.09129), CVPR 2018
 
-* [Weakly Supervised Semantic Segmentation using Web-Crawled Videos](https://arxiv.org/abs/1701.00352), CVPR 2017 \[[web](http://cvlab.postech.ac.kr/research/weaksup_video/)\]
+* [Weakly Supervised Semantic Segmentation using Web-Crawled Videos](https://arxiv.org/abs/1701.00352), CVPR 2017(Spotlight) \[[web](http://cvlab.postech.ac.kr/research/weaksup_video/)\]
 
 * [Object Region Mining with Adversarial Erasing: A Simple Classification to Semantic Segmentation Approach](https://arxiv.org/abs/1703.08448), CVPR 2017
 
 * [WILDCAT: Weakly Supervised Learning of Deep ConvNets for Image Classification, Pointwise Localization and Segmentation](http://webia.lip6.fr/~durandt/pdfs/2017_CVPR/Durand_WILDCAT_CVPR_2017.pdf), CVPR 2017 \[[web](http://webia.lip6.fr/~durandt/projects/wildcat/)\]\[[code](https://github.com/durandtibo/wildcat.pytorch)\]
 
-* [Learning random-walk label propagation for weakly-supervised semantic segmentation](https://arxiv.org/abs/1802.00470), CVPR 2017
+* [Learning random-walk label propagation for weakly-supervised semantic segmentation](https://arxiv.org/abs/1802.00470), CVPR 2017(Oral)
 
 * [Combining Bottom-Up, Top-Down, and Smoothness Cues for Weakly Supervised Image Segmentation](https://ieeexplore.ieee.org/document/8100253/), CVPR 2017
 
