@@ -13,7 +13,7 @@ There are some personal views and notes, just ignore if not interested. (keep up
 
 some unsupervised segment proposal methods and datasets [here](unsup.md).
 
-CVPR 2018 Tutorial : WSL [Part1](https://www.youtube.com/watch?v=bXfZFmE8cjo),[Part2](https://www.youtube.com/watch?v=FetNp6f19IM)
+CVPR 2018 Tutorial : WSL[web&ppt](https://hbilen.github.io/wsl-cvpr18.github.io/) [Part1](https://www.youtube.com/watch?v=bXfZFmE8cjo),[Part2](https://www.youtube.com/watch?v=FetNp6f19IM)
 
 #### Typical weak supervised segmentation problems 
 
@@ -148,6 +148,8 @@ Arxiv paper
 * [Generative Adversarial Learning Towards Fast Weakly Supervised Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Generative_Adversarial_Learning_CVPR_2018_paper.pdf), CVPR 2018
 
 * [Min-Entropy Latent Model for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Min-Entropy_Latent_Model_CVPR_2018_paper.pdf), CVPR 2018
+
+* [Weakly Supervised Cascaded Convolutional Networks](https://arxiv.org/abs/1611.08258), CVPR 2017
 
 <h2 id="4">4.Other supervision</h2>
 
