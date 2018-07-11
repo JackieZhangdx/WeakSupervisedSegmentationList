@@ -13,7 +13,7 @@ There are some personal views and notes, just ignore if not interested. (keep up
 
 some unsupervised segment proposal methods and datasets [here](unsup.md).
 
-CVPR 2018 Tutorial : WSL[web&ppt](https://hbilen.github.io/wsl-cvpr18.github.io/) [Part1](https://www.youtube.com/watch?v=bXfZFmE8cjo),[Part2](https://www.youtube.com/watch?v=FetNp6f19IM)
+**CVPR 2018 Tutorial : WSL** [web&ppt](https://hbilen.github.io/wsl-cvpr18.github.io/), [Part1](https://www.youtube.com/watch?v=bXfZFmE8cjo) ,[Part2](https://www.youtube.com/watch?v=FetNp6f19IM)
 
 #### Typical weak supervised segmentation problems 
 
