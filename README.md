@@ -80,6 +80,10 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 <h2 id="3">3.Image/video label supervision</h2>
 
+* [Self-produced Guidance for Weakly-supervised Object Localization](https://arxiv.org/abs/1807.08902v1), ECCV 2018
+
+* [Convolutional Simplex Projection Network (CSPN) for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1807.09169v1), BMVC 2018
+
 * [Weakly Supervised Instance Segmentation using Class Peak Response](https://arxiv.org/abs/1804.00880), CVPR 2018(Spotlight)
 
 	:state-of-art practice for instance seg with only class label.
@@ -120,6 +124,8 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 * [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://www.robots.ox.ac.uk/~vgg/rg/papers/ccnn.pdf), ICCV 2015 \[[code](https://github.com/pathak22/ccnn)\]
 
+* [From Image-level to Pixel-level Labeling with Convolutional Networks](https://arxiv.org/abs/1411.6228), CVPR 2015
+
 Resource 
 
 * [Yunchao Wei](https://weiyc.github.io) talk in Chinese about [WSL with image label](http://www.iqiyi.com/w_19ru51f0nh.html)
@@ -137,9 +143,13 @@ Arxiv paper
 | Global Max Pooling(GMP) | Is object localization for free? - Weakly-supervised learning with convolutional neural networks,[CVPR 2015](http://leon.bottou.org/publications/pdf/cvpr-2015.pdf) |
 | Global Average Pooling(GAP) | Learning Deep Features for Discriminative Localization [CVPR 2016](https://arxiv.org/abs/1512.04150)|
 | Log-sum-exponential Pooling(LSE)| ProNet: Learning to Propose Object-specific Boxes for Cascaded Neural Networks,[CVPR 2016](https://arxiv.org/abs/1511.03776)|
+| Global Weighted Rank Pooling(GWRP) | SEC [ECCV 2016](https://arxiv.org/pdf/1603.06098.pdf)|
 | Global rank Max-Min Pooling(GRP)| WILDCAT, [CVPR 2017](http://webia.lip6.fr/~durandt/projects/wildcat/)|
 
+
 <h2 id="3.1">3.2 Weakly supervised Detection / Localization(TODO) </h2>
+
+* [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.04897v1), ECCV 2018
 
 * [Zigzag Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1804.09466v1), CVPR 2018
 
