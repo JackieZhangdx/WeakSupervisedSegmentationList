@@ -122,7 +122,7 @@ DAVIS Challenge: <http://davischallenge.org/>
 
 * [Seed, Expand, Constrain: Three Principles for Weakly-Supervised Image Segmentation](https://arxiv.org/pdf/1603.06098.pdf), ECCV 2016 \[[code](https://github.com/kolesman/SEC)\]
 
-* [Backtracking ScSPM Image Classifier for Weakly Supervised Top-down Saliency](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S21-58.pdf), CVPR 2016
+* [Backtracking ScSPM Image Classifier for Weakly Supervised Top-down Saliency](https://www.cv-foundation.org/openaccess/content_cvpr_2016/app/S21-58.pdf), CVPR 2016, TIP 2018 [Version](https://arxiv.org/abs/1611.05345)
 
 * [Constrained Convolutional Neural Networks for Weakly Supervised Segmentation](https://www.robots.ox.ac.uk/~vgg/rg/papers/ccnn.pdf), ICCV 2015 \[[code](https://github.com/pathak22/ccnn)\]
 
