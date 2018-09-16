@@ -165,7 +165,7 @@ Arxiv paper
 
 * [Weakly Supervised Cascaded Convolutional Networks](https://arxiv.org/abs/1611.08258), CVPR 2017
 
-* [Multiple Instance Detection Network with Online Instance Classifier Refinement](https://arxiv.org/abs/1704.00138), CVPR 2017 \[[CODE](https://github.com/ppengtang/oicr)\]
+* [Multiple Instance Detection Network with Online Instance Classifier Refinement](https://arxiv.org/abs/1704.00138), CVPR 2017 \[[code](https://github.com/ppengtang/oicr)\]
 
 <h2 id="4">4.Other supervision</h2>
 
@@ -183,7 +183,7 @@ Arxiv paper
 
 <h2 id="5">5.Close Related or unpublished work</h2>
 
-* [PCL: Proposal Cluster Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.03342), Arxiv1807 \[[CODE](https://github.com/ppengtang/oicr/tree/pcl)\]
+* [PCL: Proposal Cluster Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.03342), Arxiv1807 \[[code](https://github.com/ppengtang/oicr/tree/pcl)\]
 
 * [WebSeg: Learning Semantic Segmentation from Web Searches](https://arxiv.org/abs/1803.09859v1), Arxiv1803
 
