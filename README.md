@@ -151,6 +151,8 @@ Arxiv paper
 
 <h2 id="3.1">3.2 Weakly supervised Detection / Localization(TODO) </h2>
 
+* [Weakly Supervised Region Proposal Network and Object Detection](http://pengtang.xyz/publications/0640.pdf), ECCV 2018
+
 * [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.04897v1), ECCV 2018
 
 * [Zigzag Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1804.09466v1), CVPR 2018
@@ -162,6 +164,8 @@ Arxiv paper
 * [Min-Entropy Latent Model for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Min-Entropy_Latent_Model_CVPR_2018_paper.pdf), CVPR 2018
 
 * [Weakly Supervised Cascaded Convolutional Networks](https://arxiv.org/abs/1611.08258), CVPR 2017
+
+* [Multiple Instance Detection Network with Online Instance Classifier Refinement](https://arxiv.org/abs/1704.00138), CVPR 2017 \[[CODE](https://github.com/ppengtang/oicr)\]
 
 <h2 id="4">4.Other supervision</h2>
 
@@ -178,6 +182,8 @@ Arxiv paper
 
 
 <h2 id="5">5.Close Related or unpublished work</h2>
+
+* [PCL: Proposal Cluster Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.03342), Arxiv1807 \[[CODE](https://github.com/ppengtang/oicr/tree/pcl)\]
 
 * [WebSeg: Learning Semantic Segmentation from Web Searches](https://arxiv.org/abs/1803.09859v1), Arxiv1803
 
