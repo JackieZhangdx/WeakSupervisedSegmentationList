@@ -2,7 +2,9 @@
 
 This repository contains lists of state-or-art weakly supervised semantic segmentation works. Papers and resources are listed below according to supervision types. 
 
-There are some personal views and notes, just ignore if not interested. (keep updating)
+There are some personal views and notes, just ignore if not interested. 
+
+Last update 2019/2
 
 - [x] Paper list
 	- [x] instance
@@ -161,7 +163,7 @@ Arxiv paper
 
 * [Generative Adversarial Learning Towards Fast Weakly Supervised Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Generative_Adversarial_Learning_CVPR_2018_paper.pdf), CVPR 2018
 
-* [Min-Entropy Latent Model for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Min-Entropy_Latent_Model_CVPR_2018_paper.pdf), CVPR 2018
+* [Min-Entropy Latent Model for Weakly Supervised Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wan_Min-Entropy_Latent_Model_CVPR_2018_paper.pdf), CVPR 2018 , [PAMI19](https://ieeexplore.ieee.org/document/8640243/), \[[code](https://github.com/Winfrand/MELM)\]
 
 * [Weakly Supervised Cascaded Convolutional Networks](https://arxiv.org/abs/1611.08258), CVPR 2017
 
