@@ -32,8 +32,6 @@ some unsupervised segment proposal methods and datasets [here](unsup.md).
 
 * [Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1904.11693), CVPR 2019 
 
-<img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
-
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
 
 	:Learning weight transfer from well-annotated subset, transfer class-specific weights(output layers) from detection and classification branch, based on Mask-RCNN
@@ -41,8 +39,6 @@ some unsupervised segment proposal methods and datasets [here](unsup.md).
 * [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), CVPR 2018
 
 	:State-of-art weakly supervised instance segmentation with bounding box annotation. EM optimizes pseudo mask and segmentation parameter like Boxsup. Graphcut on superpixel is employed to refine pseudo mask. 
-
-<img src="img/psmask.png" alt="git2" title="psmask" width="750" height="300" />
 
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
 
@@ -58,19 +54,14 @@ some unsupervised segment proposal methods and datasets [here](unsup.md).
 
 * [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
 
-*[Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
+* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
 
-Arxiv paper
-
-* [Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414), Arxiv 1803 
 
 <h2 id="2">2.One-Shot segmentation supervision</h2>
 
 DAVIS Challenge: <http://davischallenge.org/> 
 
 	: Davis17/18(Semi-supervised Video segmentation task), Davis16 is video salient object segmentation without the first frame annotations.
-
-<img src="img/davis.PNG" alt="git2" title="davis" width="700" height="350" />
 
 * [Fast and Accurate Online Video Object Segmentation via Tracking Parts](https://arxiv.org/abs/1806.02323), CVPR 2018(Spotlight) \[[code](https://github.com/JingchunCheng/FAVOS)\]
 
@@ -153,6 +144,8 @@ Arxiv paper
 
 <h2 id="3.1">3.2 Weakly supervised Detection / Localization(TODO) </h2>
 
+* [PCL: Proposal Cluster Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.03342), PAMI 2018 \[[code](https://github.com/ppengtang/oicr/tree/pcl)\]
+
 * [Weakly Supervised Region Proposal Network and Object Detection](http://pengtang.xyz/publications/0640.pdf), ECCV 2018
 
 * [TS2C: Tight Box Mining with Surrounding Segmentation Context for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.04897v1), ECCV 2018
@@ -185,7 +178,7 @@ Arxiv paper
 
 <h2 id="5">5.Close Related or unpublished work</h2>
 
-* [PCL: Proposal Cluster Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.03342), PAMI 2018 \[[code](https://github.com/ppengtang/oicr/tree/pcl)\]
+* [Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414), Arxiv 1803 
 
 * [WebSeg: Learning Semantic Segmentation from Web Searches](https://arxiv.org/abs/1803.09859v1), Arxiv1803
 
