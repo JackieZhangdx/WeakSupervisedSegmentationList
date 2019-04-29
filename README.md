@@ -4,7 +4,7 @@ This repository contains lists of state-or-art weakly supervised semantic segmen
 
 There are some personal views and notes, just ignore if not interested. 
 
-Last update 2019/2
+Last update 2019/4
 
 - [x] Paper list
 	- [x] instance
@@ -32,7 +32,7 @@ some unsupervised segment proposal methods and datasets [here](unsup.md).
 
 Instance semantic segmentation
 
-```<img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />```
+<img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
 
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
 
@@ -44,9 +44,11 @@ Instance semantic segmentation
 
 <img src="img/psmask.png" alt="git2" title="psmask" width="750" height="300" />
 
+* [Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1904.11693), CVPR 2019 
+
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
 
-	```:Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask semantic segmentaion, sensitive to env(quality) of training images. Check [my implementation](https://github.com/JackieZhangdx/PseudoMask) for pseudo mask generation which is similar to Grabcut+ MCG. But it can't match the performance discribed in paper sup. Opencv version Grabcut perform even worse.
+	:Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask semantic segmentaion, sensitive to env(quality) of training images. 
 
 * [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
 
@@ -185,7 +187,7 @@ Arxiv paper
 
 <h2 id="5">5.Close Related or unpublished work</h2>
 
-* [PCL: Proposal Cluster Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.03342), Arxiv1807 \[[code](https://github.com/ppengtang/oicr/tree/pcl)\]
+* [PCL: Proposal Cluster Learning for Weakly Supervised Object Detection](https://arxiv.org/abs/1807.03342), PAMI 2018 \[[code](https://github.com/ppengtang/oicr/tree/pcl)\]
 
 * [WebSeg: Learning Semantic Segmentation from Web Searches](https://arxiv.org/abs/1803.09859v1), Arxiv1803
 
