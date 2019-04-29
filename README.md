@@ -32,7 +32,7 @@ some unsupervised segment proposal methods and datasets [here](unsup.md).
 
 Instance semantic segmentation
 
-‘’‘<img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
+'''<img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
 
 * [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
 
