@@ -30,7 +30,7 @@ some unsupervised segment proposal methods and datasets [here](unsup.md).
 
 <h2 id="1">1.Bounding box supervision</h2>
 
-Instance semantic segmentation
+* [Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1904.11693), CVPR 2019 
 
 <img src="img/instance.PNG" alt="git" title="instance segmentation" width="450" height="350" />
 
@@ -43,8 +43,6 @@ Instance semantic segmentation
 	:State-of-art weakly supervised instance segmentation with bounding box annotation. EM optimizes pseudo mask and segmentation parameter like Boxsup. Graphcut on superpixel is employed to refine pseudo mask. 
 
 <img src="img/psmask.png" alt="git2" title="psmask" width="750" height="300" />
-
-* [Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1904.11693), CVPR 2019 
 
 * [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
 
@@ -60,11 +58,11 @@ Instance semantic segmentation
 
 * [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
 
+*[Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
+
 Arxiv paper
 
 * [Learning to Segment via Cut-and-Paste](https://arxiv.org/abs/1803.06414), Arxiv 1803 
-
-* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), Arxiv1802, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
 
 <h2 id="2">2.One-Shot segmentation supervision</h2>
 
